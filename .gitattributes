@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+.kra filter=lfs diff=lfs merge=lfs -text
+*.kra filter=lfs diff=lfs merge=lfs -text
+*.kra~ filter=lfs diff=lfs merge=lfs -text
