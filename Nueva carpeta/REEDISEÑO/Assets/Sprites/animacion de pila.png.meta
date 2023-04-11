@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: ff905dcda7ace24478bc47ad0334c335
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 902498164313700072
+    second: animacion de pila_0
+  - first:
+      213: 5583451811606642605
+    second: animacion de pila_1
+  - first:
+      213: 5719915167256313448
+    second: animacion de pila_2
+  - first:
+      213: -6221943474037179077
+    second: animacion de pila_3
+  - first:
+      213: -8801174002288124323
+    second: animacion de pila_4
+  - first:
+      213: -1578401264554970489
+    second: animacion de pila_5
+  - first:
+      213: 6129733801611796230
+    second: animacion de pila_6
+  - first:
+      213: -1151436124544443335
+    second: animacion de pila_7
+  - first:
+      213: -3961562660506859853
+    second: animacion de pila_8
+  - first:
+      213: -3687306752839344638
+    second: animacion de pila_9
+  - first:
+      213: 3448862165994560803
+    second: animacion de pila_10
+  - first:
+      213: 6070176135968499549
+    second: animacion de pila_11
+  - first:
+      213: -2896621090046861662
+    second: animacion de pila_12
+  - first:
+      213: -2781621820565321799
+    second: animacion de pila_13
+  - first:
+      213: -6704545874300033907
+    second: animacion de pila_14
+  - first:
+      213: 1048547168700115122
+    second: animacion de pila_15
+  - first:
+      213: -3765716903721530149
+    second: animacion de pila_16
+  - first:
+      213: -8082373568873043033
+    second: animacion de pila_17
+  - first:
+      213: 3035021081939479711
+    second: animacion de pila_18
+  - first:
+      213: -2454075452988450054
+    second: animacion de pila_19
+  - first:
+      213: 4311253976183378959
+    second: animacion de pila_20
+  - first:
+      213: -3480029722545839146
+    second: animacion de pila_21
+  - first:
+      213: -8542258238531994791
+    second: animacion de pila_22
+  - first:
+      213: 710076496021748047
+    second: animacion de pila_23
+  - first:
+      213: -1901004947737820385
+    second: animacion de pila_24
+  - first:
+      213: -2124786002435097299
+    second: animacion de pila_25
+  - first:
+      213: 7309894552349870792
+    second: animacion de pila_26
+  - first:
+      213: -8188796395895563671
+    second: animacion de pila_27
+  - first:
+      213: -8976690071256412792
+    second: animacion de pila_28
+  - first:
+      213: 2964053604312066097
+    second: animacion de pila_29
+  - first:
+      213: 6339639478489071668
+    second: animacion de pila_30
+  - first:
+      213: 3211863868749123412
+    second: animacion de pila_31
+  - first:
+      213: 3945039037684377271
+    second: animacion de pila_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animacion de pila_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e63c5e7c41568c00800000000000000
+      internalID: 902498164313700072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de pila_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf335b17d76c7d40800000000000000
+      internalID: 5583451811606642605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion de pila_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e7ea90a88316f40800000000000000
+      internalID: 5719915167256313448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5294532932117373778
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2393010375656119940, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_Size.y
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 2393010375656119940, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_Offset.x
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2393010375656119940, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_Offset.y
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3488042079656706301, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_Name
+      value: TIERRA DE ATRAS GO PARED
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 49
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+--- !u!4 &941680666152498053 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4929313169180578007, guid: a3c227c4f6af9a74eac087553578d150, type: 3}
+  m_PrefabInstance: {fileID: 5294532932117373778}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7169636080425794479
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 941680666152498053}
+    m_Modifications:
+    - target: {fileID: 507606236175327670, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_Name
+      value: TIERRA DE ARRIBA (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 507606236175327671, guid: db54312b74639554d9d8820933877d6f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: db54312b74639554d9d8820933877d6f, type: 3}
