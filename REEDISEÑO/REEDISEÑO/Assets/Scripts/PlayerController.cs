@@ -41,7 +41,7 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown("up") && canJump)
         {
             canJump = false; // Establece canJump a false para evitar saltar de nuevo antes de tocar el suelo.
-            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 500));
+            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 300));
             gameObject.GetComponent<Animator>().SetBool("saltando", true);
         }
         //Esto verifica si se deja de presionar la tecla arriba para que pare la animacion de saltar
